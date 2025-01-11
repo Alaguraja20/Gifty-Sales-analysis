@@ -37,14 +37,19 @@ The Average Order and Delivery Time 5.53 days
 
 ### 3. Monthly Sales Performance
 Sales peaked in August and February 2023, generating above ₹6,00,000 during these months.
+
 Lower sales months include January, July, September, April, December where revenue dropped below ₹1,50,000.
 
 ### 4. Top Products by Revenue
 The top 5 products by revenue are:
 Magnam Set: ₹1,21,905
+
 Quia Gift: ₹1,14,476
+
 Dolores Gift: ₹1,06,624
+
 Harum Pack: ₹1,01,556
+
 Deserunt Box: ₹97,665
 
 ### 5. Customer Spending Analysis
