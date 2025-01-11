@@ -42,6 +42,7 @@ Lower sales months include January, July, September, April, December where reven
 
 ### 4. Top Products by Revenue
 The top 5 products by revenue are:
+
 Magnam Set: ₹1,21,905
 
 Quia Gift: ₹1,14,476
@@ -62,14 +63,23 @@ The top products (as listed above) consistently generate the highest revenue acr
 The top 10 cities by orders are:
 
 Imphal: 29 orders
+
 Dhanbad: 28 orders
+
 Kavali: 27 orders
+
 Haridwar: 24 orders
+
 Bidhan Nagar: 21 orders
+
 Dibrugarh: 21 orders
+
 Guntakal: 20 orders
+
 North Dumdum: 19 orders
+
 Bilaspur: 18 orders
+
 Bhtpara: 18 orders
 
 ### 8. Order Quantity vs. Delivery Time
@@ -79,16 +89,24 @@ Bhtpara: 18 orders
 Revenue by occasions:
 
 All Occasions	₹ 5,86,176
+
 Anniversary	₹ 6,74,634
+
 Birthday	₹ 4,08,194
+
 Diwali	₹ 3,13,783
+
 Holi	₹ 5,74,682
+
 Raksha Bandhan	₹ 6,31,585
+
 Valentine's Day	₹ 3,31,930
 
 ### 10. Product Popularity by Occasion
 The top products for occasions:
+
 Magnam Set: Most popular for all occasions with ₹1,21,905 revenue.
+
 Other popular products include Quia Gift and Dolores Gift, generating over ₹1,00,000 revenue for multiple occasions.
 
 ### Summary:
